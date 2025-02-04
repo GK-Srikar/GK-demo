@@ -1,2 +1,2 @@
 # GK-demo
-this my first repository
+this is my first repository
